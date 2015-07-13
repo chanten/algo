@@ -79,6 +79,7 @@
     <ClCompile Include="artic(prim).c" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="gul.txt" />
     <Text Include="sample_input.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
